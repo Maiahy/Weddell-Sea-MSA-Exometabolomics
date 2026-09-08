@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Tara Navigation in Antarctica, Surrounded by Sea Ice.<br>
+  <em>Tara Navigation in Antarctica, surrounded by sea ice.<br>
   Photo credit: Dave Katz - tenacity in pursuit productions - Fondation Tara Ocean.</em>
 </p>
 
