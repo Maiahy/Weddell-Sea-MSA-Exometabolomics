@@ -2,8 +2,6 @@
 
 #This code was written based on the recommendations provided by Broadhurst and al. 
 #(DOI: https://doi.org/10.1007/s11306-018-1367-3). Please cite this article if you are using this code.
-#And with the help of this website:
-#https://www.davidzeleny.net/anadat-r/doku.php/en:pcoa_nmds
 
 #Loading of the packages:
 library(ggplot2)
